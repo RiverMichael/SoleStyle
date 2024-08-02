@@ -11,7 +11,7 @@ export default function TempSection() {
         </p>
       </div>
       <div className="animate-glow animate-fade-right hidden h-px w-screen bg-gradient-to-r from-orange-300/0 via-orange-300/50 to-orange-300/0 md:block" />
-      <h2 className="font-display animate-fade-in-soon mt-16 text-4xl text-orange-200">
+      <h2 className="font-display animate-fade-in-soon mt-16 text-4xl text-orange-100">
         Coming soon.
       </h2>
     </section>
