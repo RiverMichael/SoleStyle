@@ -10,15 +10,11 @@ Michael "River" Nilsson - [mrn@michaelriver.dev][mrn-mail] | [michaelriver.dev][
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[Link to project][github-repo]
-
-<!-- [Link to live site][live-site] -->
+[Link to project][github-repo] | [Link to live site][live-site]
 
 [github-repo]: https://github.com/RiverMichael/solestyle.git
 [github-issues]: https://github.com/RiverMichael/solestyle/issues
-
-<!-- [live-site]: https://holidaze.michaelriver.dev/ -->
-
+[live-site]: https://solestyle.michaelriver.dev/
 [linkedin-url]: https://www.linkedin.com/in/michaelrivernilsson
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [mrn-url]: https://www.michaelriver.dev
