@@ -15,7 +15,7 @@ Michael "River" Nilsson - [mrn@michaelriver.dev][mrn-mail] | [michaelriver.dev][
 [github-repo]: https://github.com/RiverMichael/solestyle.git
 [github-issues]: https://github.com/RiverMichael/solestyle/issues
 [live-site]: https://solestyle.michaelriver.dev/
-[linkedin-url]: https://www.linkedin.com/in/michaelrivernilsson
+[linkedin-url]: https://linkedin.com/in/michaelrivernilsson
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[mrn-url]: https://www.michaelriver.dev
+[mrn-url]: https://michaelriver.dev
 [mrn-mail]: mailto:mrn@michaelriver.dev
