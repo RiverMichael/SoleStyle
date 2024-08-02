@@ -14,7 +14,7 @@ const calSans = LocalFont({
 });
 
 export const metadata: Metadata = {
-  title: "SoleStyle",
+  title: "SoleStyle - Step into Style with SoleStyle",
   description: "SoleStyle - Step into Style with SoleStyle",
 };
 
