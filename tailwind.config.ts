@@ -19,8 +19,8 @@ const config: Config = {
         display: ["var(--font-calsans)"],
       },
       animation: {
-        "fade-in": "fade-in 3s ease-in-out forwards",
-        "fade-in-soon": "fade-in 5s ease-in-out forwards",
+        "fade-in": "fade-in 4s ease-in-out forwards",
+        "fade-in-soon": "fade-in 6s ease-in-out forwards",
         title: "title 3s ease-out forwards",
         "fade-left": "fade-left 3s ease-in-out forwards",
         "fade-right": "fade-right 3s ease-in-out forwards",
